@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&family=Pacifico&family=Pixelify+Sans&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&family=Pacifico&family=Pixelify+Sans&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Martian+Mono:wght@300&family=Pacifico&family=Pixelify+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Carter+One&family=Martian+Mono:wght@300&family=Pacifico&family=Pixelify+Sans&display=swap');
+header{
+    background-color: rgb(12, 12, 12);
+    color: white;
+    height: 53px;
+}
+h6#ani1{
+    font-size: 15px;
+    margin: 0 0 0 175px;
+}
+div#navbarNav.collapse.navbar-collapse{
+    margin: 15px 0 0 310px;
+    font-size: large;
+    font-weight: 645;
+}
+a#ani2.nav-link{
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
+button#ani3{
+    margin: -16px 0 0 20px; 
+    border: none;
+    border-radius: 5px;
+    background-color: #FFDA00;
+    height: 70px;
+    width: 150px;
+}
+img#ani4{
+    height: 78px;
+    margin: 0 0 0 150px;
+}
+section{
+    background-color: black;
+    color: #FFDA00;
+}
+h2{
+    font-family: 'Arvo', serif; 
+}
+
+div#ani5{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Pixelify Sans', cursive;
+    font-family: 'Shadows Into Light', cursive; 
+}
+h4#gp1{
+    font-size: large;
+    padding-top: 40px;
+}
+h2#Del{
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Pixelify Sans', cursive;
+    font-family: 'Shadows Into Light', cursive;  
+}
+h4#gp5{
+    color: rgb(211, 190, 5);
+    
+    font-family: 'Martian Mono', monospace;
+    
+}
+h5#gp6{
+    font-family: 'Pacifico', cursive;
+    color: white; 
+    font-size: medium;
+}
+footer{
+    background-color: black;
+    font-weight: bolder;
+    color: white;
+    font-size: smaller;
+    font-family: 'Martian Mono', monospace;
+
+}
+.card1 {
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    margin: 0 0 20px 49px;
+}
+.card1 img{
+    width: 80%;
+    transition: 01s all ease-in-out;
+}
+.card1:hover img{
+    transform: rotate(360deg);
+}
